@@ -1,0 +1,16 @@
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\bin\Debug\net8.0-windows\Konversi_Suhu.exe
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\bin\Debug\net8.0-windows\Konversi_Suhu.deps.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\bin\Debug\net8.0-windows\Konversi_Suhu.runtimeconfig.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\bin\Debug\net8.0-windows\Konversi_Suhu.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\bin\Debug\net8.0-windows\Konversi_Suhu.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.Form1.resources
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.vbproj.GenerateResource.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.AssemblyInfoInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.AssemblyInfo.vb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.vbproj.CoreCompileInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\refint\Konversi_Suhu.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\Konversi_Suhu.genruntimeconfig.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Suhu\Konversi_Suhu\obj\Debug\net8.0-windows\ref\Konversi_Suhu.dll
