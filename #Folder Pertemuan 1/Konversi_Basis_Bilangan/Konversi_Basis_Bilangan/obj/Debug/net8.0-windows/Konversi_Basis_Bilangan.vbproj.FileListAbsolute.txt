@@ -1,0 +1,32 @@
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.exe
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.deps.json
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.runtimeconfig.json
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.dll
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.pdb
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.Form1.resources
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.AssemblyInfo.vb
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.dll
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\refint\Konversi_Basis_Bilangan.dll
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.pdb
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\ref\Konversi_Basis_Bilangan.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.exe
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.deps.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.runtimeconfig.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\bin\Debug\net8.0-windows\Konversi_Basis_Bilangan.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.Form1.resources
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.vbproj.GenerateResource.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.AssemblyInfoInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.AssemblyInfo.vb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.vbproj.CoreCompileInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\refint\Konversi_Basis_Bilangan.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\Konversi_Basis_Bilangan.genruntimeconfig.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Konversi_Basis_Bilangan\Konversi_Basis_Bilangan\obj\Debug\net8.0-windows\ref\Konversi_Basis_Bilangan.dll
