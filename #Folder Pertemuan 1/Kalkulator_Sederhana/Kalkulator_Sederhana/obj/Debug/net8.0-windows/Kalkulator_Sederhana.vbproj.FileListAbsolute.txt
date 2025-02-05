@@ -1,0 +1,16 @@
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\bin\Debug\net8.0-windows\Kalkulator_Sederhana.exe
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\bin\Debug\net8.0-windows\Kalkulator_Sederhana.deps.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\bin\Debug\net8.0-windows\Kalkulator_Sederhana.runtimeconfig.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\bin\Debug\net8.0-windows\Kalkulator_Sederhana.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\bin\Debug\net8.0-windows\Kalkulator_Sederhana.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.Form1.resources
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.vbproj.GenerateResource.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.AssemblyInfoInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.AssemblyInfo.vb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.vbproj.CoreCompileInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\refint\Kalkulator_Sederhana.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\Kalkulator_Sederhana.genruntimeconfig.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\Kalkulator_Sederhana\Kalkulator_Sederhana\obj\Debug\net8.0-windows\ref\Kalkulator_Sederhana.dll
