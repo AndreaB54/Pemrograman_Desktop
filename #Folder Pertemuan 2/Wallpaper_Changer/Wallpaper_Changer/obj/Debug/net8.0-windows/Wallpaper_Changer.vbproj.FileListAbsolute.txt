@@ -1,0 +1,16 @@
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\bin\Debug\net8.0-windows\Wallpaper_Changer.exe
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\bin\Debug\net8.0-windows\Wallpaper_Changer.deps.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\bin\Debug\net8.0-windows\Wallpaper_Changer.runtimeconfig.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\bin\Debug\net8.0-windows\Wallpaper_Changer.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\bin\Debug\net8.0-windows\Wallpaper_Changer.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.Form1.resources
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.vbproj.GenerateResource.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.AssemblyInfoInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.AssemblyInfo.vb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.vbproj.CoreCompileInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\refint\Wallpaper_Changer.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\Wallpaper_Changer.genruntimeconfig.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Wallpaper_Changer\Wallpaper_Changer\obj\Debug\net8.0-windows\ref\Wallpaper_Changer.dll
