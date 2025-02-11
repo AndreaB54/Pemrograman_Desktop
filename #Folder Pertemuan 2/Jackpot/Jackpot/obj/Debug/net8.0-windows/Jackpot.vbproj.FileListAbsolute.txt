@@ -1,0 +1,16 @@
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.vbproj.GenerateResource.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.AssemblyInfoInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.AssemblyInfo.vb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.vbproj.CoreCompileInputs.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.exe
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.deps.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.runtimeconfig.json
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\bin\Debug\net8.0-windows\Jackpot.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.Form1.resources
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\refint\Jackpot.dll
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.pdb
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\Jackpot.genruntimeconfig.cache
+D:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 2\Jackpot\Jackpot\obj\Debug\net8.0-windows\ref\Jackpot.dll
