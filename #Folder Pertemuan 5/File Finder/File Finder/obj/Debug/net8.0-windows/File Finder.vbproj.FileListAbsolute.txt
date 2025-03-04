@@ -1,0 +1,6 @@
+A:\Kulyeah\Semester 6\Pemrograman Desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File_Finder.Form1.resources
+A:\Kulyeah\Semester 6\Pemrograman Desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.vbproj.GenerateResource.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.GeneratedMSBuildEditorConfig.editorconfig
+A:\Kulyeah\Semester 6\Pemrograman Desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.AssemblyInfoInputs.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.AssemblyInfo.vb
+A:\Kulyeah\Semester 6\Pemrograman Desktop\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.vbproj.CoreCompileInputs.cache

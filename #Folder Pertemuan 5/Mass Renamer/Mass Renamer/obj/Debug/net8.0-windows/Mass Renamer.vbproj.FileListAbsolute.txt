@@ -1,0 +1,16 @@
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.exe
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.deps.json
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.runtimeconfig.json
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.dll
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\bin\Debug\net8.0-windows\Mass Renamer.pdb
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass_Renamer.Form1.resources
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.vbproj.GenerateResource.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.GeneratedMSBuildEditorConfig.editorconfig
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.AssemblyInfoInputs.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.AssemblyInfo.vb
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.vbproj.CoreCompileInputs.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.dll
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\refint\Mass Renamer.dll
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.pdb
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\Mass Renamer.genruntimeconfig.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 5\Mass Renamer\Mass Renamer\obj\Debug\net8.0-windows\ref\Mass Renamer.dll
