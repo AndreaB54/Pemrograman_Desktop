@@ -173,7 +173,7 @@ Public Class Form1
         Next
     End Sub
 
-    Private Sub tvDrive_BeforeExpand(sender As Object, e As TreeViewEventArgs) Handles tvDrive.BeforeExpand
+    Private Sub tvDrive_BeforeExpand(sender As Object, e As TreeViewCancelEventArgs) Handles tvDrive.BeforeExpand
         GetFolders(e.Node)
     End Sub
 
@@ -208,19 +208,19 @@ Public Class Form1
         Application.Exit()
     End Sub
 
-    Private Sub OpenToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles OpenToolStripMenuItem.Click
+    Private Sub OpenExecuteFileToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles OpenExecuteFileToolStripMenuItem.Click
         If lvFile.SelectedItems.Count = 1 Then
             Process.Start(lvFile.SelectedItems(0).Tag)
         End If
     End Sub
 
-    Private Sub OpenFolderToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles OpenFolderToolStripMenuItem.Click
+    Private Sub OpenAndSelectFileInFolderToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles OpenAndSelectFileInFolderToolStripMenuItem.Click
         If lvFile.SelectedItems.Count = 1 Then
             Process.Start("explorer.exe", "/select," & lvFile.SelectedItems(0).Tag)
         End If
     End Sub
 
-    Private Sub CopyPathToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles CopyPathToolStripMenuItem.Click
+    Private Sub CopyFullPathToClipboardToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles CopyFullPathToClipboardToolStripMenuItem.Click
         If lvFile.SelectedItems.Count = 1 Then
             Clipboard.SetText(lvFile.SelectedItems(0).Tag)
             MsgBox("Copied Successfully!")
@@ -234,14 +234,14 @@ Public Class Form1
         End If
     End Sub
 
-    Private Sub RefreshToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles RefreshToolStripMenuItem.Click
+    Private Sub RefreshFolderToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles RefreshFolderToolStripMenuItem.Click
         GetDrives()
         For i As Integer = 0 To lvFile.Columns.Count - 1
             lvFile.Columns(i).Width = -2
         Next
     End Sub
 
-    Private Sub ExportToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles ExportToolStripMenuItem.Click
+    Private Sub ExportFileListToTextFileToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExportFileListToTextFileToolStripMenuItem.Click
         Dim sfd As New SaveFileDialog
         sfd.DefaultExt = "*.txt"
         sfd.FileName = "Export.txt"
@@ -269,5 +269,6 @@ Public Class Form1
             ToolStripProgressBar1.Value = 0
         End If
     End Sub
+
 
 End Class
