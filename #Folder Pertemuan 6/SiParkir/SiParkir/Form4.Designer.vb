@@ -22,18 +22,24 @@ Partial Class Form4
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        components = New ComponentModel.Container()
         lblNoPlat = New Label()
         tbNoPlat = New TextBox()
         lblMasuk = New Button()
         lblParkir = New Label()
         dataParkir = New DataGridView()
         lblJenis = New Label()
-        ComboBox1 = New ComboBox()
         lblKeluar = New Button()
         MenuStrip1 = New MenuStrip()
         SistemToolStripMenuItem = New ToolStripMenuItem()
+        AturProfilToolStripMenuItem = New ToolStripMenuItem()
+        LogoutToolStripMenuItem = New ToolStripMenuItem()
         AdminToolStripMenuItem = New ToolStripMenuItem()
+        LanggananToolStripMenuItem = New ToolStripMenuItem()
+        LaporanToolStripMenuItem = New ToolStripMenuItem()
         BantuanToolStripMenuItem = New ToolStripMenuItem()
+        BantuanToolStripMenuItem1 = New ToolStripMenuItem()
+        TentangToolStripMenuItem = New ToolStripMenuItem()
         tbPlat = New TextBox()
         Panel1 = New Panel()
         lblInformasi = New Label()
@@ -42,14 +48,13 @@ Partial Class Form4
         lblJmlKendaraan = New Label()
         lblBiaya = New Label()
         tbBiaya = New TextBox()
-        AturProfilToolStripMenuItem = New ToolStripMenuItem()
-        LogoutToolStripMenuItem = New ToolStripMenuItem()
-        LanggananToolStripMenuItem = New ToolStripMenuItem()
-        LaporanToolStripMenuItem = New ToolStripMenuItem()
-        BantuanToolStripMenuItem1 = New ToolStripMenuItem()
-        TentangToolStripMenuItem = New ToolStripMenuItem()
+        lblInfoJenis = New Label()
+        lblTekan = New Label()
+        ContextMenuStrip1 = New ContextMenuStrip(components)
+        DeleteToolStripMenuItem = New ToolStripMenuItem()
         CType(dataParkir, ComponentModel.ISupportInitialize).BeginInit()
         MenuStrip1.SuspendLayout()
+        ContextMenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
         ' lblNoPlat
@@ -66,7 +71,7 @@ Partial Class Form4
         ' 
         tbNoPlat.Location = New Point(193, 185)
         tbNoPlat.Name = "tbNoPlat"
-        tbNoPlat.Size = New Size(247, 27)
+        tbNoPlat.Size = New Size(197, 27)
         tbNoPlat.TabIndex = 3
         ' 
         ' lblMasuk
@@ -101,20 +106,12 @@ Partial Class Form4
         ' lblJenis
         ' 
         lblJenis.AutoSize = True
-        lblJenis.Font = New Font("Segoe UI", 12F)
-        lblJenis.Location = New Point(22, 228)
+        lblJenis.Font = New Font("Segoe UI", 10F)
+        lblJenis.Location = New Point(22, 221)
         lblJenis.Name = "lblJenis"
-        lblJenis.Size = New Size(53, 28)
+        lblJenis.Size = New Size(457, 23)
         lblJenis.TabIndex = 13
-        lblJenis.Text = "Jenis"
-        ' 
-        ' ComboBox1
-        ' 
-        ComboBox1.FormattingEnabled = True
-        ComboBox1.Location = New Point(193, 228)
-        ComboBox1.Name = "ComboBox1"
-        ComboBox1.Size = New Size(116, 28)
-        ComboBox1.TabIndex = 14
+        lblJenis.Text = "F1 - Motor, F2 - Mobil, F3 - Taksi, F4 - Sepeda, F5 - Bis/Truk"
         ' 
         ' lblKeluar
         ' 
@@ -143,6 +140,18 @@ Partial Class Form4
         SistemToolStripMenuItem.Size = New Size(67, 24)
         SistemToolStripMenuItem.Text = "Sistem"
         ' 
+        ' AturProfilToolStripMenuItem
+        ' 
+        AturProfilToolStripMenuItem.Name = "AturProfilToolStripMenuItem"
+        AturProfilToolStripMenuItem.Size = New Size(159, 26)
+        AturProfilToolStripMenuItem.Text = "Atur Profil"
+        ' 
+        ' LogoutToolStripMenuItem
+        ' 
+        LogoutToolStripMenuItem.Name = "LogoutToolStripMenuItem"
+        LogoutToolStripMenuItem.Size = New Size(159, 26)
+        LogoutToolStripMenuItem.Text = "Logout"
+        ' 
         ' AdminToolStripMenuItem
         ' 
         AdminToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {LanggananToolStripMenuItem, LaporanToolStripMenuItem})
@@ -150,12 +159,36 @@ Partial Class Form4
         AdminToolStripMenuItem.Size = New Size(67, 24)
         AdminToolStripMenuItem.Text = "Admin"
         ' 
+        ' LanggananToolStripMenuItem
+        ' 
+        LanggananToolStripMenuItem.Name = "LanggananToolStripMenuItem"
+        LanggananToolStripMenuItem.Size = New Size(165, 26)
+        LanggananToolStripMenuItem.Text = "Langganan"
+        ' 
+        ' LaporanToolStripMenuItem
+        ' 
+        LaporanToolStripMenuItem.Name = "LaporanToolStripMenuItem"
+        LaporanToolStripMenuItem.Size = New Size(165, 26)
+        LaporanToolStripMenuItem.Text = "Laporan"
+        ' 
         ' BantuanToolStripMenuItem
         ' 
         BantuanToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {BantuanToolStripMenuItem1, TentangToolStripMenuItem})
         BantuanToolStripMenuItem.Name = "BantuanToolStripMenuItem"
         BantuanToolStripMenuItem.Size = New Size(77, 24)
         BantuanToolStripMenuItem.Text = "Bantuan"
+        ' 
+        ' BantuanToolStripMenuItem1
+        ' 
+        BantuanToolStripMenuItem1.Name = "BantuanToolStripMenuItem1"
+        BantuanToolStripMenuItem1.Size = New Size(146, 26)
+        BantuanToolStripMenuItem1.Text = "Bantuan"
+        ' 
+        ' TentangToolStripMenuItem
+        ' 
+        TentangToolStripMenuItem.Name = "TentangToolStripMenuItem"
+        TentangToolStripMenuItem.Size = New Size(146, 26)
+        TentangToolStripMenuItem.Text = "Tentang"
         ' 
         ' tbPlat
         ' 
@@ -231,41 +264,37 @@ Partial Class Form4
         tbBiaya.Size = New Size(247, 47)
         tbBiaya.TabIndex = 25
         ' 
-        ' AturProfilToolStripMenuItem
+        ' lblInfoJenis
         ' 
-        AturProfilToolStripMenuItem.Name = "AturProfilToolStripMenuItem"
-        AturProfilToolStripMenuItem.Size = New Size(224, 26)
-        AturProfilToolStripMenuItem.Text = "Atur Profil"
+        lblInfoJenis.AutoSize = True
+        lblInfoJenis.Font = New Font("Segoe UI", 12F)
+        lblInfoJenis.Location = New Point(396, 185)
+        lblInfoJenis.Name = "lblInfoJenis"
+        lblInfoJenis.Size = New Size(0, 28)
+        lblInfoJenis.TabIndex = 26
         ' 
-        ' LogoutToolStripMenuItem
+        ' lblTekan
         ' 
-        LogoutToolStripMenuItem.Name = "LogoutToolStripMenuItem"
-        LogoutToolStripMenuItem.Size = New Size(224, 26)
-        LogoutToolStripMenuItem.Text = "Logout"
+        lblTekan.AutoSize = True
+        lblTekan.Font = New Font("Segoe UI", 10F)
+        lblTekan.Location = New Point(22, 244)
+        lblTekan.Name = "lblTekan"
+        lblTekan.Size = New Size(266, 23)
+        lblTekan.TabIndex = 27
+        lblTekan.Text = "Tekan Enter untuk Masuk / Keluar"
         ' 
-        ' LanggananToolStripMenuItem
+        ' ContextMenuStrip1
         ' 
-        LanggananToolStripMenuItem.Name = "LanggananToolStripMenuItem"
-        LanggananToolStripMenuItem.Size = New Size(224, 26)
-        LanggananToolStripMenuItem.Text = "Langganan"
+        ContextMenuStrip1.ImageScalingSize = New Size(20, 20)
+        ContextMenuStrip1.Items.AddRange(New ToolStripItem() {DeleteToolStripMenuItem})
+        ContextMenuStrip1.Name = "ContextMenuStrip1"
+        ContextMenuStrip1.Size = New Size(123, 28)
         ' 
-        ' LaporanToolStripMenuItem
+        ' DeleteToolStripMenuItem
         ' 
-        LaporanToolStripMenuItem.Name = "LaporanToolStripMenuItem"
-        LaporanToolStripMenuItem.Size = New Size(224, 26)
-        LaporanToolStripMenuItem.Text = "Laporan"
-        ' 
-        ' BantuanToolStripMenuItem1
-        ' 
-        BantuanToolStripMenuItem1.Name = "BantuanToolStripMenuItem1"
-        BantuanToolStripMenuItem1.Size = New Size(224, 26)
-        BantuanToolStripMenuItem1.Text = "Bantuan"
-        ' 
-        ' TentangToolStripMenuItem
-        ' 
-        TentangToolStripMenuItem.Name = "TentangToolStripMenuItem"
-        TentangToolStripMenuItem.Size = New Size(224, 26)
-        TentangToolStripMenuItem.Text = "Tentang"
+        DeleteToolStripMenuItem.Name = "DeleteToolStripMenuItem"
+        DeleteToolStripMenuItem.Size = New Size(122, 24)
+        DeleteToolStripMenuItem.Text = "Delete"
         ' 
         ' Form4
         ' 
@@ -273,6 +302,8 @@ Partial Class Form4
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.LightCoral
         ClientSize = New Size(910, 472)
+        Controls.Add(lblTekan)
+        Controls.Add(lblInfoJenis)
         Controls.Add(tbBiaya)
         Controls.Add(lblBiaya)
         Controls.Add(lblJmlKendaraan)
@@ -282,7 +313,6 @@ Partial Class Form4
         Controls.Add(Panel1)
         Controls.Add(tbPlat)
         Controls.Add(lblKeluar)
-        Controls.Add(ComboBox1)
         Controls.Add(lblJenis)
         Controls.Add(dataParkir)
         Controls.Add(lblParkir)
@@ -296,6 +326,7 @@ Partial Class Form4
         CType(dataParkir, ComponentModel.ISupportInitialize).EndInit()
         MenuStrip1.ResumeLayout(False)
         MenuStrip1.PerformLayout()
+        ContextMenuStrip1.ResumeLayout(False)
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -305,7 +336,6 @@ Partial Class Form4
     Friend WithEvents lblParkir As Label
     Friend WithEvents dataParkir As DataGridView
     Friend WithEvents lblJenis As Label
-    Friend WithEvents ComboBox1 As ComboBox
     Friend WithEvents lblKeluar As Button
     Friend WithEvents MenuStrip1 As MenuStrip
     Friend WithEvents SistemToolStripMenuItem As ToolStripMenuItem
@@ -325,5 +355,9 @@ Partial Class Form4
     Friend WithEvents LaporanToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents BantuanToolStripMenuItem1 As ToolStripMenuItem
     Friend WithEvents TentangToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents lblInfoJenis As Label
+    Friend WithEvents lblTekan As Label
+    Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
+    Friend WithEvents DeleteToolStripMenuItem As ToolStripMenuItem
 
 End Class

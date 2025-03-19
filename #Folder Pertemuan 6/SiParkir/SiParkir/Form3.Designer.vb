@@ -26,19 +26,20 @@ Partial Class Form3
         lblNoPlat = New Label()
         tbNamaPel = New TextBox()
         tbNoPlat = New TextBox()
-        lblTambah = New Button()
+        btnTambah = New Button()
         btnTutup = New Button()
         tbTarif = New TextBox()
         lblTarif = New Label()
         lblBerlaku = New Label()
-        dtpBerlaku = New DateTimePicker()
+        DateTimePicker1 = New DateTimePicker()
         lblLangganan = New Label()
         DataGridView1 = New DataGridView()
         lblId = New Label()
         lblJenis = New Label()
-        ComboBox1 = New ComboBox()
-        lblEdit = New Button()
-        lblHapus = New Button()
+        cmbJenis = New ComboBox()
+        btnEdit = New Button()
+        btnHapus = New Button()
+        btnCancel = New Button()
         CType(DataGridView1, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
@@ -76,20 +77,20 @@ Partial Class Form3
         tbNoPlat.Size = New Size(247, 27)
         tbNoPlat.TabIndex = 3
         ' 
-        ' lblTambah
+        ' btnTambah
         ' 
-        lblTambah.BackColor = Color.SkyBlue
-        lblTambah.Location = New Point(466, 172)
-        lblTambah.Name = "lblTambah"
-        lblTambah.Size = New Size(77, 29)
-        lblTambah.TabIndex = 4
-        lblTambah.Text = "Tambah"
-        lblTambah.UseVisualStyleBackColor = False
+        btnTambah.BackColor = Color.SkyBlue
+        btnTambah.Location = New Point(466, 172)
+        btnTambah.Name = "btnTambah"
+        btnTambah.Size = New Size(77, 29)
+        btnTambah.TabIndex = 4
+        btnTambah.Text = "Tambah"
+        btnTambah.UseVisualStyleBackColor = False
         ' 
         ' btnTutup
         ' 
         btnTutup.BackColor = Color.SkyBlue
-        btnTutup.Location = New Point(592, 433)
+        btnTutup.Location = New Point(698, 433)
         btnTutup.Name = "btnTutup"
         btnTutup.Size = New Size(94, 29)
         btnTutup.TabIndex = 5
@@ -123,12 +124,12 @@ Partial Class Form3
         lblBerlaku.TabIndex = 8
         lblBerlaku.Text = "Berlaku hingga"
         ' 
-        ' dtpBerlaku
+        ' DateTimePicker1
         ' 
-        dtpBerlaku.Location = New Point(195, 174)
-        dtpBerlaku.Name = "dtpBerlaku"
-        dtpBerlaku.Size = New Size(247, 27)
-        dtpBerlaku.TabIndex = 9
+        DateTimePicker1.Location = New Point(195, 174)
+        DateTimePicker1.Name = "DateTimePicker1"
+        DateTimePicker1.Size = New Size(247, 27)
+        DateTimePicker1.TabIndex = 9
         ' 
         ' lblLangganan
         ' 
@@ -146,7 +147,7 @@ Partial Class Form3
         DataGridView1.Location = New Point(24, 269)
         DataGridView1.Name = "DataGridView1"
         DataGridView1.RowHeadersWidth = 51
-        DataGridView1.Size = New Size(662, 158)
+        DataGridView1.Size = New Size(763, 158)
         DataGridView1.TabIndex = 11
         ' 
         ' lblId
@@ -169,53 +170,64 @@ Partial Class Form3
         lblJenis.TabIndex = 13
         lblJenis.Text = "Jenis"
         ' 
-        ' ComboBox1
+        ' cmbJenis
         ' 
-        ComboBox1.FormattingEnabled = True
-        ComboBox1.Location = New Point(549, 72)
-        ComboBox1.Name = "ComboBox1"
-        ComboBox1.Size = New Size(116, 28)
-        ComboBox1.TabIndex = 14
+        cmbJenis.FormattingEnabled = True
+        cmbJenis.Location = New Point(549, 72)
+        cmbJenis.Name = "cmbJenis"
+        cmbJenis.Size = New Size(116, 28)
+        cmbJenis.TabIndex = 14
         ' 
-        ' lblEdit
+        ' btnEdit
         ' 
-        lblEdit.BackColor = Color.SkyBlue
-        lblEdit.Location = New Point(549, 172)
-        lblEdit.Name = "lblEdit"
-        lblEdit.Size = New Size(77, 29)
-        lblEdit.TabIndex = 15
-        lblEdit.Text = "Edit"
-        lblEdit.UseVisualStyleBackColor = False
+        btnEdit.BackColor = Color.SkyBlue
+        btnEdit.Location = New Point(549, 172)
+        btnEdit.Name = "btnEdit"
+        btnEdit.Size = New Size(77, 29)
+        btnEdit.TabIndex = 15
+        btnEdit.Text = "Edit"
+        btnEdit.UseVisualStyleBackColor = False
         ' 
-        ' lblHapus
+        ' btnHapus
         ' 
-        lblHapus.BackColor = Color.SkyBlue
-        lblHapus.Location = New Point(632, 172)
-        lblHapus.Name = "lblHapus"
-        lblHapus.Size = New Size(77, 29)
-        lblHapus.TabIndex = 16
-        lblHapus.Text = "Hapus"
-        lblHapus.UseVisualStyleBackColor = False
+        btnHapus.BackColor = Color.SkyBlue
+        btnHapus.Location = New Point(632, 172)
+        btnHapus.Name = "btnHapus"
+        btnHapus.Size = New Size(77, 29)
+        btnHapus.TabIndex = 16
+        btnHapus.Text = "Hapus"
+        btnHapus.UseVisualStyleBackColor = False
+        ' 
+        ' btnCancel
+        ' 
+        btnCancel.BackColor = Color.SkyBlue
+        btnCancel.Location = New Point(715, 172)
+        btnCancel.Name = "btnCancel"
+        btnCancel.Size = New Size(77, 29)
+        btnCancel.TabIndex = 17
+        btnCancel.Text = "Cancel"
+        btnCancel.UseVisualStyleBackColor = False
         ' 
         ' Form3
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.LightCoral
-        ClientSize = New Size(720, 472)
-        Controls.Add(lblHapus)
-        Controls.Add(lblEdit)
-        Controls.Add(ComboBox1)
+        ClientSize = New Size(799, 472)
+        Controls.Add(btnCancel)
+        Controls.Add(btnHapus)
+        Controls.Add(btnEdit)
+        Controls.Add(cmbJenis)
         Controls.Add(lblJenis)
         Controls.Add(lblId)
         Controls.Add(DataGridView1)
         Controls.Add(lblLangganan)
-        Controls.Add(dtpBerlaku)
+        Controls.Add(DateTimePicker1)
         Controls.Add(lblBerlaku)
         Controls.Add(tbTarif)
         Controls.Add(lblTarif)
         Controls.Add(btnTutup)
-        Controls.Add(lblTambah)
+        Controls.Add(btnTambah)
         Controls.Add(tbNoPlat)
         Controls.Add(tbNamaPel)
         Controls.Add(lblNoPlat)
@@ -231,18 +243,19 @@ Partial Class Form3
     Friend WithEvents lblNoPlat As Label
     Friend WithEvents tbNamaPel As TextBox
     Friend WithEvents tbNoPlat As TextBox
-    Friend WithEvents lblTambah As Button
+    Friend WithEvents btnTambah As Button
     Friend WithEvents btnTutup As Button
     Friend WithEvents tbTarif As TextBox
     Friend WithEvents lblTarif As Label
     Friend WithEvents lblBerlaku As Label
-    Friend WithEvents dtpBerlaku As DateTimePicker
+    Friend WithEvents DateTimePicker1 As DateTimePicker
     Friend WithEvents lblLangganan As Label
     Friend WithEvents DataGridView1 As DataGridView
     Friend WithEvents lblId As Label
     Friend WithEvents lblJenis As Label
-    Friend WithEvents ComboBox1 As ComboBox
-    Friend WithEvents lblEdit As Button
-    Friend WithEvents lblHapus As Button
+    Friend WithEvents cmbJenis As ComboBox
+    Friend WithEvents btnEdit As Button
+    Friend WithEvents btnHapus As Button
+    Friend WithEvents btnCancel As Button
 
 End Class
