@@ -1,0 +1,16 @@
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.frmUtama.resources
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.vbproj.GenerateResource.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.GeneratedMSBuildEditorConfig.editorconfig
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.AssemblyInfoInputs.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.AssemblyInfo.vb
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.vbproj.CoreCompileInputs.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\bin\Debug\net8.0-windows\CoretVektor.exe
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\bin\Debug\net8.0-windows\CoretVektor.deps.json
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\bin\Debug\net8.0-windows\CoretVektor.runtimeconfig.json
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\bin\Debug\net8.0-windows\CoretVektor.dll
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\bin\Debug\net8.0-windows\CoretVektor.pdb
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.dll
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\refint\CoretVektor.dll
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.pdb
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\CoretVektor.genruntimeconfig.cache
+A:\Kulyeah\Semester 6\Pemrograman Desktop\#Folder Pertemuan 12\CoretVektor\CoretVektor\obj\Debug\net8.0-windows\ref\CoretVektor.dll
